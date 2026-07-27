@@ -1,0 +1,1 @@
+import{t as e}from"./capture.B3tZTnCR.js";e();
